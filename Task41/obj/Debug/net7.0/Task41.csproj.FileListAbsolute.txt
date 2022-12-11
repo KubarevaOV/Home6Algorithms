@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/bin/Debug/net7.0/Task41
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/bin/Debug/net7.0/Task41.deps.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/bin/Debug/net7.0/Task41.runtimeconfig.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/bin/Debug/net7.0/Task41.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/bin/Debug/net7.0/Task41.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.AssemblyInfo.cs
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/refint/Task41.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/Task41.genruntimeconfig.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home6Algorithms/Task41/obj/Debug/net7.0/ref/Task41.dll
